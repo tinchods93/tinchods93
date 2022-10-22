@@ -1,7 +1,7 @@
 ### Hi there 😎
 
 
-- I’m a Backend developer 🤓 currently working in [INCLUIT](https://incluit.com/) with a client named [Naranja X](https://www.naranjax.com/)
+- I’m a Backend developer 🤓 currently working in [Naranja X](https://www.naranjax.com/)
 - ✔️ [LinkedIn](https://www.linkedin.com/in/martin-e-dos-santos/)
 
 ---
